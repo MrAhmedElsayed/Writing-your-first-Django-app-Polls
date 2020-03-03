@@ -1,0 +1,14 @@
+li a {
+    list-style-type: circle;
+    color: blue;
+    font-weight: bold;
+}
+
+a:hover {
+  background-color: #81C5B8;
+}
+
+body {
+    background: white url("images/background.jpg") no-repeat;
+    background-size: 100% 100%;
+}
