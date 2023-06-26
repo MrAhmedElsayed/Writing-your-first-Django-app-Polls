@@ -1,8 +1,8 @@
 # Polls App
 
-poll app from django docs.
+poll app from Django docs, I styled it with Bootstrap.
 
-I start with this url https://docs.djangoproject.com/en/3.0/intro/tutorial01/ Django Documentation.
+I start with this URL https://docs.djangoproject.com/en/3.0/intro/tutorial01/ Django Documentation.
 
 
 ## Install and run
